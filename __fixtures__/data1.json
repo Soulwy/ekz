@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy S20",
+      "discount_percentage": 10,
+      "quantity": 1500,
+      "manufacturer": "Samsung",
+      "category": ["Smartphones"]
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 12 Pro",
+      "discount_percentage": 15,
+      "quantity": 700,
+      "manufacturer": "Apple",
+      "category": ["Smartphones"]
+    },
+    {
+      "id": 3,
+      "name": "Sony PlayStation 5",
+      "discount_percentage": 0,
+      "quantity": 1000000,
+      "manufacturer": "Sony",
+      "category": ["Gaming Consoles"]
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13",
+      "discount_percentage": 8,
+      "quantity": 1200,
+      "manufacturer": "Dell",
+      "category": ["Laptops"]
+    },
+    {
+      "id": 5,
+      "name": "iPhone 11",
+      "discount_percentage": 12,
+      "quantity": 900,
+      "manufacturer": "Apple",
+      "category": ["Smartphones"]
+    },
+    {
+      "id": 6,
+      "name": "Canon EOS 5D Mark IV",
+      "discount_percentage": 7,
+      "quantity": 300,
+      "manufacturer": "Canon",
+      "category": ["Cameras"]
+    },
+    {
+      "id": 7,
+      "name": "Nike Air Zoom Pegasus 37",
+      "discount_percentage": 15,
+      "quantity": 2000,
+      "manufacturer": "Nike",
+      "category": ["Running Shoes"]
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy Note 20",
+      "discount_percentage": 10,
+      "quantity": 1200,
+      "manufacturer": "Samsung",
+      "category": ["Smartphones"]
+    },
+    {
+      "id": 9,
+      "name": "KitchenAid Stand Mixer",
+      "discount_percentage": 3,
+      "quantity": 1000,
+      "manufacturer": "KitchenAid",
+      "category": ["Kitchen Appliances"]
+    },
+    {
+      "id": 10,
+      "name": "Samsung 55-Inch Smart 4K UHD TV",
+      "discount_percentage": 6,
+      "quantity": 700,
+      "manufacturer": "Samsung",
+      "category": ["Televisions"]
+    }
+  ]
+}

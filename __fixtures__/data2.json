@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "LG G8 ThinQ",
+      "discount_percentage": 10,
+      "quantity": 1500,
+      "manufacturer": "LG",
+      "category": ["Smartphones"]
+    },
+    {
+      "id": 2,
+      "name": "Apple iPhone 12",
+      "discount_percentage": 8,
+      "quantity": 2000,
+      "manufacturer": "Apple",
+      "category": ["Smartphones"]
+    },
+    {
+      "id": 3,
+      "name": "Dell XPS 15",
+      "discount_percentage": 5,
+      "quantity": 1200,
+      "manufacturer": "Dell",
+      "category": ["Laptops"]
+    },
+    {
+      "id": 4,
+      "name": "Samsung Galaxy Note 20 Ultra",
+      "discount_percentage": 10,
+      "quantity": 800,
+      "manufacturer": "Samsung",
+      "category": ["Smartphones"]
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R5",
+      "discount_percentage": 12,
+      "quantity": 500,
+      "manufacturer": "Canon",
+      "category": ["Cameras"]
+    },
+    {
+      "id": 6,
+      "name": "Nike Air Zoom Pegasus 37",
+      "discount_percentage": 15,
+      "quantity": 2000,
+      "manufacturer": "Nike",
+      "category": ["Running Shoes"]
+    },
+    {
+      "id": 7,
+      "name": "Bose QuietComfort 35 Wireless Headphones",
+      "discount_percentage": 10,
+      "quantity": 1500,
+      "manufacturer": "Bose",
+      "category": ["Headphones"]
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy S21",
+      "discount_percentage": 7,
+      "quantity": 1000,
+      "manufacturer": "Samsung",
+      "category": ["Smartphones"]
+    },
+    {
+      "id": 9,
+      "name": "LG 27-Inch 4K UHD IPS Monitor",
+      "discount_percentage": 6,
+      "quantity": 700,
+      "manufacturer": "LG",
+      "category": ["Monitors"]
+    },
+    {
+      "id": 10,
+      "name": "Fitbit Versa 3 Smartwatch",
+      "discount_percentage": 7,
+      "quantity": 1500,
+      "manufacturer": "Fitbit",
+      "category": ["Smartwatches"]
+    }
+  ]
+}
